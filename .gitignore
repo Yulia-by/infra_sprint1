@@ -134,7 +134,7 @@ dmypy.json
 media/
 .media
 
-backend/static_backend
+#backend/static_backend
 
 # FRONTEND
 
