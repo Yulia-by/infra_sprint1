@@ -1,5 +1,5 @@
 IP: 158.160.95.156;
- name_taski: https://romashka.hopto.org;
- name_kittygram: https://happykitty.zapto.org;
- login: yc-user;
- passphrase: JlOv3bJ-5z;
+name_taski: https://romashka.hopto.org;
+name_kittygram: https://happykitty.zapto.org;
+login: yc-user;
+passphrase: JlOv3bJ-5z;
