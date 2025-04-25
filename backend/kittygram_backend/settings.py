@@ -96,6 +96,9 @@ USE_TZ = True
 STATIC_URL = '/static_backend/'
 STATIC_ROOT = BASE_DIR / 'static_backend'
 
+DATA_UPLOAD_MAX_MEMORY_SIZE = 104857600  # 100 МБ
+FILE_UPLOAD_MAX_MEMORY_SIZE = 104857600  # 100 МБ
+
 MEDIA_URL = '/media/'
 MEDIA_ROOT = '/var/www/kittygram/media'
 
